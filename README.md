@@ -13,3 +13,15 @@ Repository for my thesis year project. Currently the focus is on a formally veri
 
 - Then need to take this small subset and attempt to apply verification processes to it.
 	- Might implement something to do with slices of subset since MiniFloat uses a bias.
+
+
+# Resources / References
+
+- Schmidt Floating Point Calculator
+	https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+- Floating Point Arithmetic
+	https://www.doc.ic.ac.uk/~eedwards/compsys/float/
+
+- Professor Leong's Paper and Presentation
+	Block MiniFloat
