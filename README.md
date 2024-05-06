@@ -1,9 +1,9 @@
 # wnm-thesis
-Repository for my thesis year project. Currently the focus is on a formally verified Block MiniFloat adder.
+Repository for my thesis year project. Currently the focus is on formally verifying Block MiniFloat.
 
 # Tasks / Goals
 
-- I need to formulate a table to ocmpare my work against what it exists.
+- I need to formulate a table to compare my work against what exists.
 
 - I need to list all my literature and tools I have drawn upon.
 
@@ -22,6 +22,9 @@ Repository for my thesis year project. Currently the focus is on a formally veri
 
 - Floating Point Arithmetic
 	https://www.doc.ic.ac.uk/~eedwards/compsys/float/
+
+- Precision in floating point representations
+	https://blog.demofox.org/2017/11/21/floating-point-precision/
 
 - Professor Leong's Paper and Presentation
 	Block MiniFloat
