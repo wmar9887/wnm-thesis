@@ -28,3 +28,9 @@ Repository for my thesis year project. Currently the focus is on formally verify
 
 - Professor Leong's Paper and Presentation
 	Block MiniFloat
+
+- Lecture 08: Floating Numbers, CSE Department, CUHK
+	http://www.cse.cuhk.edu.hk/~byu/CENG3420/2022Spring/slides/Lec08-floating-num.pdf
+
+- Floating Point Representation, Copyright © Karen Miller, 2006 
+	https://pages.cs.wisc.edu/%7Emarkhill/cs354/Fall2008/notes/flpt.apprec.html
