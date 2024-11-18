@@ -1,6 +1,11 @@
 # wnm-thesis
 Repository for my thesis year project. Currently the focus is on formally verifying Block MiniFloat.
 
+# Submission Update
+- The last attempt at this work is contained within the jupyter-notebook MiniFloat Current Work.
+
+- All other files are either references used during research, or side projects to help understand the errors arising from attempts.
+
 # Tasks / Goals
 
 - I need to formulate a table to compare my work against what exists.
@@ -13,6 +18,8 @@ Repository for my thesis year project. Currently the focus is on formally verify
 
 - Then need to take this small subset and attempt to apply verification processes to it.
 	- Might implement something to do with slices of subset since MiniFloat uses a bias.
+
+
 
 
 # Resources / References
